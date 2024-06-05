@@ -22,6 +22,9 @@ class Program
         else if (number3 > number2) {
             Console.Write("You have entered " + number3 + " which is greater than " + number2 + " which is the maximum");
         }
+        else {
+            Console.Write("You have entered a correct number");
+        }
 
 
 
